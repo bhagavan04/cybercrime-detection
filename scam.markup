@@ -1,0 +1,12 @@
+scam-message-detector.zip
+│
+├── scam_message_detector/
+│   ├── __init__.py
+│   ├── model.py
+│   └── utils.py
+│
+├── examples/
+│   └── run_detector.py
+│
+├── README.md
+└── requirements.txt
